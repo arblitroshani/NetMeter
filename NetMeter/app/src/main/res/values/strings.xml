@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Net Meter</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="intro1">Open the server in another environment, and use the IP address and port of the server to connect.</string>
+
+    <string name="intro2">Starts a server. Open a client in the same network, and use the server.</string>
+
+    <string name="intro3">Start both the server and client in the phone itself.</string>
+
+    <string name="intro4">Measure average RTT and Throughput of a TCP connection.</string>
+
+</resources>
